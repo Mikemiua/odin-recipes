@@ -1,1 +1,1 @@
-# TheOdinProject curriculum first project html practice; odin-recipes
+# TheOdinProject curriculum first html project practice; odin-recipes
