@@ -1,0 +1,15 @@
+/* for orange-chicken.html */
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+.header {
+  background-color: pink;
+  font-weight: 100;
+}
+
+img {
+  height: auto;
+  width: 250px;
+}
